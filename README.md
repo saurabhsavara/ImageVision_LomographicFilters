@@ -12,10 +12,6 @@ The Lookup Table used by the program is :
 
  While the vignette filter will provide the user to change the filter radius (r) from 1 to 100   
 
-# **Summary Test File:**
-
-Lomo_TestCase.docx
-
 # **Input**
 
 1. Image 1 - A copy of an image which needs to be transformed.
